@@ -16,6 +16,7 @@ import CategoryPosts from './pages/CreatePost';
 import AuthorPosts from './pages/AuthorPosts'
 import Dashboard from './pages/Dashboard'
 import Logout from './pages/Logout'
+// import Header from './pages/components/Header';
 
 
 const router = createBrowserRouter([
@@ -26,6 +27,7 @@ const router = createBrowserRouter([
     children:[
       {index: true,element:<Home/>},
       {path: "posts/:id", element:<PostDetail />},
+      // {path: "header", element:<Header />},
       {path: "register" , element: <Register />},
       {path: "login" , element: <Login />},
       {path: "profile/:id" , element: <UserProfile />},
@@ -47,4 +49,6 @@ root.render(
     <RouterProvider router={router}/>
   </React.StrictMode>
 );
+
+
 
