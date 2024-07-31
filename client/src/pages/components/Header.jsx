@@ -18,7 +18,7 @@ const Header = () => {
           <li><Link to="/logout">Logout</Link></li>
         </ul>
         <button className="nav_toggle-btn">
-          {/* Add FaBars here if you want to use it */}
+          <FaBars />{/* Add FaBars here if you want to use it */}
           <AiOutlineClose />
         </button>
       </div>
