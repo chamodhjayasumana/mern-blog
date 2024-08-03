@@ -128,6 +128,28 @@ section{
     color: var(--color-white);
 }
 
+.center{
+    text-align: center;
+    padding-top: 5rem;
+    margin-inline: center;
+    display: block;
+}
+
+.error-page h2 {
+    margin-top: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /* NAVBAR */
 nav {
     width: 100vw;
@@ -214,6 +236,14 @@ footer{
     font-weight: 300 ;
 }
 
+
+
+
+
+
+
+
+/* Home */
 
 
 
