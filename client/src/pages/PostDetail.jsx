@@ -1,5 +1,5 @@
 import React from 'react'
-import PostAuthor from './components/PostAuthor'
+import PostAuthor from '../components/PostAuthor'
 import { Link } from 'react-router-dom'
 import Thumbnail from './images/thumbnail.jpg'
 

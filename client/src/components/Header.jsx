@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom'; // Make sure react-router-dom is installed
-import Logo from '../images/logo.jpg';
+import Logo from '../pages/images/logo.jpg';
 import { FaBars } from 'react-icons/fa'; // FaBars is imported but not used in this code
 import { AiOutlineClose } from 'react-icons/ai';
 

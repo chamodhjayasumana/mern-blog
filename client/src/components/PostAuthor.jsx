@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Avatar from '../images/blog7.jpg'
+import Avatar from '../pages/images/blog7.jpg'
 
 const PostAuthor = () => {
   return (
