@@ -5,7 +5,7 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import Layout from './pages/components/Layout';
 import ErrorPage from './pages/ErrorPage'
 import Home from './pages/Home'
-import PostDetail from './pages/Home'
+import PostDetail from './pages/PostDetail'
 import Register from './pages/Register'
 import Login from './pages/Login'
 import UserProfile from './pages/UserProfile'
