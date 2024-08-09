@@ -23,7 +23,7 @@ const Login = () => {
           <input type="text" placeholder='Email' name='email' value={userData.email} onChange=
           {changeInputHandler} autoFocus/>
           <input type="password" placeholder='Password' name='password' value={userData.password} onChange=
-          {changeInputHandler} autoFocus/> 
+          {changeInputHandler}  /> 
           <button type="submit" className='btn primary'>Login</button>
 
         </form>

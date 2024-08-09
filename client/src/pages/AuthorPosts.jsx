@@ -5,8 +5,8 @@ import PostItem from '../components/PostItem'
 const AuthorPosts = () => {
   const [posts,setPosts]= useState(DUMMY_POSTS)
   return (
-    <section className="author_posts">
-    {posts.length > 0 ? <div className="container author_posts-container">
+    <section className="author-posts">
+    {posts.length > 0 ? <div className="container author-posts_container">
          {
              posts.map(({id,thumbnail,category,title,desc,authorID}) =>
                  <PostItem key={id} postID={id} thumbnail={thumbnail} category={category} title={title}

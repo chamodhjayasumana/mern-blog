@@ -12,7 +12,7 @@ import UserProfile from './pages/UserProfile'
 import Authors from './pages/Authors'
 import CreatePost from './pages/CreatePost'
 import EditPost from './pages/EditPost'
-import CategoryPosts from './pages/CreatePost';
+import CategoryPosts from './pages/CategoryPosts'
 import AuthorPosts from './pages/AuthorPosts'
 import Dashboard from './pages/Dashboard'
 import Logout from './pages/Logout'
