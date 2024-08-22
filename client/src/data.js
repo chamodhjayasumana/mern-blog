@@ -24,7 +24,7 @@ export const DUMMY_POSTS = [
     {
         id: '3',
         thumbnail: Thumbnail3,
-        category: 'education',
+        category: 'Business',
         title: 'United Kingdom Is Ruling The Apparel And Fashion World. Here’s How',
         desc: 'Today, the UK textile industry holds 6 percent market share only in the fashion sector. The domestic market value of the UK fashion industry in Approximate 66 Million Pounds. Total household clothing consumption in the UK is above 6 Million Dollars per year. The country has advance spinning and weaving technologies to produce the high-quality fabric',
         authorID: 2
@@ -32,7 +32,7 @@ export const DUMMY_POSTS = [
     {
         id: '4',
         thumbnail: Thumbnail4,
-        category: 'education',
+        category: 'Entertainment',
         title: 'I need more space',
         desc: 'The design of buildings and spaces can greatly affect how people feel and perform. Windows, wall colours and even plants in a room can improve your productivity and mood. In extreme environments, the layout of a habitat becomes even more important.',
         authorID: 13

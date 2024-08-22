@@ -189,6 +189,30 @@ nav {
     display: none;
 }
 
+/* Base styles for the navigation */
+
+
+  .nav_menu li a:hover {
+    color: #00adb5;
+  }
+  
+  /* Toggle button styling */
+  .nav_toggle-btn {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 24px;
+    /* color: #fff; */
+    cursor: pointer;
+  }
+  
+ 
+  /* Active state for the toggle button */
+  .nav_toggle-btn.active {
+    color: #00adb5;
+  }
+  
+
 
 
 
