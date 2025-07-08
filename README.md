@@ -25,7 +25,4 @@ A full-stack blog application built with the **MERN stack (MongoDB, Express.js, 
 - **Styling**: CSS/SCSS (or Tailwind, if added)
 - **File Upload**: Multer (optional based on project config)
 
----
-
-## 📂 Project Structure
 
